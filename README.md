@@ -1,5 +1,7 @@
 # Docker-ankisyncd
 
+**[MOVED](https://github.com/Zweihander-Main/docker/tree/master/ankisyncd)**
+
 > Dockerized ankisyncd, targeting more recent releases of Anki/AnkiDroid
 
 Uses [ankicommunity/anki-sync-server](https://github.com/ankicommunity/anki-sync-server) codebase.
